@@ -45,7 +45,7 @@ https://telegra.ph/file/99d62337dd26231c9f7c5.jpg)
 
  <p align="center">😸KLIK TOMBOL DIBAWAH YA😸</p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SendiAp/Rose-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/askarrr/Kar-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 
 ## © Credits 
