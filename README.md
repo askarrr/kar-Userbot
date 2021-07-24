@@ -20,7 +20,7 @@
 <a href="https://github.com/SendiAp/Rose-Userbot/commits/Geez-UserBot"><img src="https://img.shields.io/github/last-commit/SendiAp/Rose-Userbot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
 <a href="https://github.com/SendiAp/Rose-Userbot/actions/workflows/main.yml"><img src="https://img.shields.io/github/workflow/status/SendiAp/Rose-Userbot/CI/Rose-Userbot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
 
-## 🌹Rose-Userbot
+## Kar-Userbot
 Gak Usah Banyak Drama Lu,Ini Hanya Sekedar Hiburan
 ![Rose UserBot](https://telegra.ph/file/70723befcbc1896fb4c56.jpg) 
 
@@ -33,7 +33,7 @@ Gak Usah Banyak Drama Lu,Ini Hanya Sekedar Hiburan
 
 <a href="https://replit.com/@Vckyou/Geez-String-Session#main.py"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
-## 🌹Bunga Rose🌹
+## Kar-Userbot
 ![Rose UserBot](
 https://telegra.ph/file/99d62337dd26231c9f7c5.jpg) 
 
